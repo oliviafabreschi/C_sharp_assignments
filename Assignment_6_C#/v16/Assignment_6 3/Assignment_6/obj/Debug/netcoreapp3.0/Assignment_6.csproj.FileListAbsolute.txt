@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\Assignment_6\Assignment_6\obj\Debug\netcoreapp3.0\Assignment_6.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Assignment_6\Assignment_6\obj\Debug\netcoreapp3.0\Assignment_6.MainForm.resources
+C:\Users\user\source\repos\Assignment_6\Assignment_6\obj\Debug\netcoreapp3.0\Assignment_6.Properties.Resources.resources
+C:\Users\user\source\repos\Assignment_6\Assignment_6\obj\Debug\netcoreapp3.0\Assignment_6.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Assignment_6\Assignment_6\obj\Debug\netcoreapp3.0\Assignment_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Assignment_6\Assignment_6\obj\Debug\netcoreapp3.0\Assignment_6.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Assignment_6\Assignment_6\obj\Debug\netcoreapp3.0\Assignment_6.AssemblyInfo.cs
+C:\Users\user\source\repos\Assignment_6\Assignment_6\obj\Debug\netcoreapp3.0\Assignment_6.csproj.CoreCompileInputs.cache

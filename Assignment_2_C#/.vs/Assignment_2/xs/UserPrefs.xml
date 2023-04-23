@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{BB9811D0-4FF1-4017-B946-A2AC04CF8C39}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment_2/Program.cs">
+    <Files>
+      <File FileName="Assignment_2/Program.cs" Line="9" Column="15" />
+      <File FileName="Assignment_2/SelectionAndIteration.cs" Line="1" Column="1" />
+      <File FileName="Assignment_2/TemperatureConverter.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assignment__2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
